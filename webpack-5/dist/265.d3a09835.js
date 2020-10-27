@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_loader=self.webpackChunkwebpack_loader||[]).push([[265],{265:(e,c,s)=>{"use strict";function a(){console.log("async",456)}s.r(c),s.d(c,{test:()=>a})}}]);

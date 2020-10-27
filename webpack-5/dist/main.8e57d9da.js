@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_loader=self.webpackChunkwebpack_loader||[]).push([[179],{834:(e,n,c)=>{"use strict";console.log(123),document.getElementById("async-btn").addEventListener("click",(function(){console.log("click"),c.e(265).then(c.bind(c,265)).then((function(e){return e.test()}))}))}},0,[[834,715]]]);

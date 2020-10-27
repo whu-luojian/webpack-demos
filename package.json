@@ -1,0 +1,22 @@
+{
+  "name": "@yanluo/webpack-demos",
+  "version": "1.0.0",
+  "description": "webpack4、webpack5原理学习demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whu-luojian/webpack-demos.git"
+  },
+  "keywords": [
+    "webpack、webpack5"
+  ],
+  "author": "luojian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whu-luojian/webpack-demos/issues"
+  },
+  "homepage": "https://github.com/whu-luojian/webpack-demos#readme"
+}
